@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GameDemoClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GameDemoClient_jar</output-path>
+    <root id="archive" name="GameDemo.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/GameDemo/src/client/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="GameDemo" />
+    </root>
+  </artifact>
+</component>
